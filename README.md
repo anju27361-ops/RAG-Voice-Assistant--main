@@ -1,4 +1,4 @@
-﻿# RAG - Voice Assistant 🎙️
+﻿# VoxAI - Voice Assistant 🎙️
 A personal voice assistant application for experimenting with state-of-the-art transcription, response generation, and text-to-speech models. Supports OpenAI, Groq, Elevanlabs, CartesiaAI, and Deepgram APIs, plus local models via Ollama.
 ## Features 
 
